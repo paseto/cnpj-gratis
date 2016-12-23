@@ -1,5 +1,5 @@
 {
-    "name": "jansenfelipe/cnpj-gratis",
+    "name": "paseto/cnpj-gratis",
     "description": "Com esse pacote você poderá consultar, gratuitamente, CNPJs diretamente no site da receita.",
     "keywords": ["consulta", "receita", "cnpj", "php"],
     "license": "MIT",
